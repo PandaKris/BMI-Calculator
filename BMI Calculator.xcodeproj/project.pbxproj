@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D1D895027FE73FE00E932DB /* DoubleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D1D894F27FE73FE00E932DB /* DoubleExtension.swift */; };
 		7D43AF7F27FC1C4600B060E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D43AF7E27FC1C4600B060E0 /* AppDelegate.swift */; };
 		7D43AF8127FC1C4600B060E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D43AF8027FC1C4600B060E0 /* SceneDelegate.swift */; };
 		7D43AF8327FC1C4600B060E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D43AF8227FC1C4600B060E0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D1D894F27FE73FE00E932DB /* DoubleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleExtension.swift; sourceTree = "<group>"; };
 		7D43AF7B27FC1C4600B060E0 /* BMI Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BMI Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D43AF7E27FC1C4600B060E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D43AF8027FC1C4600B060E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				7D43AF8727FC1C4700B060E0 /* Assets.xcassets */,
 				7D43AF8927FC1C4700B060E0 /* LaunchScreen.storyboard */,
 				7D43AF8C27FC1C4700B060E0 /* Info.plist */,
+				7D1D894F27FE73FE00E932DB /* DoubleExtension.swift */,
 			);
 			path = "BMI Calculator";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				7D43AF8327FC1C4600B060E0 /* ViewController.swift in Sources */,
 				7D43AF7F27FC1C4600B060E0 /* AppDelegate.swift in Sources */,
+				7D1D895027FE73FE00E932DB /* DoubleExtension.swift in Sources */,
 				7D43AF8127FC1C4600B060E0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
